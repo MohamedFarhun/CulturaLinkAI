@@ -2,7 +2,7 @@
 
 # CulturaLink AI Chatbot
 
-CulturaLink AI is a Streamlit app developed by Mohamed Farhun M to enhance global leadership effectiveness. This app integrates advanced AI technologies, focusing on diverse cultural dynamics and leadership training.
+CulturaLink AI is a Streamlit app developed by Mohamed Farhun M to enhance global leadership effectiveness. This app integrates advanced AI technologies, focusing on diverse cultural dynamics and leadership training. Designed for leaders and HR professionals, CulturaLink AI is a pioneering tool for understanding and enhancing leadership in multicultural settings.
 
 ## Features
 
@@ -15,10 +15,10 @@ CulturaLink AI is a Streamlit app developed by Mohamed Farhun M to enhance globa
 To run this app locally, you'll need to install the required dependencies:
 
 1. Clone the repository:
-git clone [your-repository-url]
+git clone [[your-repository-url](https://github.com/MohamedFarhun/CulturaLinkAI)]
 
 2. Navigate to the app directory:
-cd [app-directory]
+cd [[app-directory](https://culturalinkai.streamlit.app/)]
 
 3. Install the requirements:
 pip install -r requirements.txt
@@ -43,5 +43,5 @@ Feedback and contributions are welcome. Please open an issue or submit a pull re
 ## Contact
 
 - Developed by: Mohamed Farhun M
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile URL]
+- Email: [mohamedfarhun.it20@bitsathy.ac.in]
+- LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/mohamed-farhun-m-098b68227/)https://www.linkedin.com/in/mohamed-farhun-m-098b68227/]
