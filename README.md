@@ -15,10 +15,10 @@ CulturaLink AI is a Streamlit app developed by Mohamed Farhun M to enhance globa
 To run this app locally, you'll need to install the required dependencies:
 
 1. Clone the repository:
-git clone [[your-repository-url](https://github.com/MohamedFarhun/CulturaLinkAI)]
+git clone [(https://github.com/MohamedFarhun/CulturaLinkAI)]
 
 2. Navigate to the app directory:
-cd [[app-directory](https://culturalinkai.streamlit.app/)]
+cd [(https://culturalinkai.streamlit.app/)]
 
 3. Install the requirements:
 pip install -r requirements.txt
@@ -44,4 +44,4 @@ Feedback and contributions are welcome. Please open an issue or submit a pull re
 
 - Developed by: Mohamed Farhun M
 - Email: [mohamedfarhun.it20@bitsathy.ac.in]
-- LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/mohamed-farhun-m-098b68227/)https://www.linkedin.com/in/mohamed-farhun-m-098b68227/]
+- LinkedIn: [(https://www.linkedin.com/in/mohamed-farhun-m-098b68227/)]
